@@ -12,6 +12,7 @@ namespace GitSandbox.App
         {
             Console.WriteLine("Feature 01");
             Console.WriteLine("Feature 02-1");
+            Console.WriteLine("Feature 02-2");
         }
     }
 }
